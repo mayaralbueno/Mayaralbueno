@@ -34,5 +34,8 @@
 
 
   
-  <img align = "right" alt = "Raquel" src = "https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align = "right" alt = "Mayara" src = "https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  
+  
+  ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 </div>
