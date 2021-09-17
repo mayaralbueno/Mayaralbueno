@@ -9,9 +9,10 @@
 - 🧠faculdade de sistemas de  informação
 
 
+
   <div>
   <a href="https://github.com/Mayaralbueno">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Mayaralbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Mayaralbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />   
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mayaralbueno&layout=compact&langs_count=7&theme=dark" />
 </div
     
@@ -40,5 +41,10 @@
   ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+
+
 <img align='right' src="https://media.giphy.com/media/Qa4XuU7ywXspG9igYt/giphy.gif" width="120 ">
+
+
+
 
