@@ -34,8 +34,9 @@
 | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> | <img src="https://img.shields.io/badge/Docker-gold?style=for-the-badge&logo=docker&logoColor=black"> | <img src="https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git&logoColor=white"> |
 
 
+  <img align='right' src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif" width="300 ">
   
-  <img align = "right" alt = "Mayara" src = "https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
+  
   
   
   ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
@@ -43,7 +44,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/Qa4XuU7ywXspG9igYt/giphy.gif" width="120 ">
+<img align='right' src="https://media.giphy.com/media/Qa4XuU7ywXspG9igYt/giphy.gif" width="150 ">
 
 
 
