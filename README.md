@@ -34,8 +34,11 @@
 
 
   
-  <img align = "right" alt = "Mayara" src = "https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align = "right" alt = "Mayara" src = "https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
   
   
   ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<img align='right' src="https://media.giphy.com/media/Qa4XuU7ywXspG9igYt/giphy.gif" width="120 ">
+
