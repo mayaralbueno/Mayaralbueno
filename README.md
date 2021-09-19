@@ -35,7 +35,7 @@
 | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> | <img src="https://img.shields.io/badge/Docker-gold?style=for-the-badge&logo=docker&logoColor=black"> | <img src="https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git&logoColor=white"> |
 
 
-  <img align='right' src="https://media.giphy.com/media/F4hprt3JvS1S8/giphy.gif" width="190 ">
+  <img align='right' src="https://media.giphy.com/media/F4hprt3JvS1S8/giphy.gif" width="150 ">
   
   
   
