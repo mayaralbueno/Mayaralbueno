@@ -3,10 +3,11 @@
 
 
 - 🔭 Sou desenvolvedora Java Full Stack
-- 🌱 atualmente estou fazendo o Bootcamp na Generation Brasil 
+- 🌱 atualmente estou fazendo o Bootcamp na Generation Brasil         <img align='right' src="https://media.giphy.com/media/GI0l8rHpXHANq/giphy.gif" width="350">
 - 📫 How to reach me: luziamayara83@gmail.com
 - 😄 Pronouns: ela/dela
 - 🧠faculdade de sistemas de  informação
+- 
 
 
 
@@ -34,7 +35,7 @@
 | <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"> | <img src="https://img.shields.io/badge/Docker-gold?style=for-the-badge&logo=docker&logoColor=black"> | <img src="https://img.shields.io/badge/Git-008000?style=for-the-badge&logo=git&logoColor=white"> |
 
 
-  <img align='right' src="https://media.giphy.com/media/5WILqPq29TyIkVCSej/giphy.gif" width="190 ">
+  <img align='right' src="https://media.giphy.com/media/F4hprt3JvS1S8/giphy.gif" width="190 ">
   
   
   
@@ -44,7 +45,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/cCl9R42RMaiSp9ZcbA/giphy.gif" width="200 ">
+
 
 
 
