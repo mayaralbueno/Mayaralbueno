@@ -5,7 +5,7 @@
 - 🔭 Sou desenvolvedora Java Full Stack
 - 🌱 atualmente estou fazendo o Bootcamp na Generation Brasil         <img align='right' src="https://media.giphy.com/media/Swytr5ngUDfDwtXKOz/giphy.gif" width="350">
 - 📫 How to reach me: luziamayara83@gmail.com
-- 😄 Pronouns: ela/dela
+- 😄 Pronome: ela/dela
 - 🧠faculdade de sistemas de  informação
 - 
 
@@ -21,7 +21,7 @@
  #  Contatos ☎📌  
     
     
-<a href="https://instagram.com/@mayara.s.bueno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/mayara.s.bueno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "luziamayara83@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayara-bueno-b9bb55212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
