@@ -7,9 +7,6 @@
 - 📫 How to reach me: luziamayara83@gmail.com
 - 😄 Pronome: ela/dela
 - 🧠faculdade de sistemas de  informação
- 
-
-
 
   <div>
   <a href="https://github.com/Mayaralbueno">
