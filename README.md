@@ -8,6 +8,7 @@
 - 😄 Pronome: ela/dela
 - 🧠faculdade de sistemas de  informação
 -
+
   <div>
   <a href="https://github.com/Mayaralbueno">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Mayaralbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />   
