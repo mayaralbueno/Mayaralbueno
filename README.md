@@ -47,7 +47,6 @@
 
 
 
- <img align='right' src="https://media.giphy.com/media/l0K4p54asXHiEfhrG/giphy.gif" width="100">
 
 
 
