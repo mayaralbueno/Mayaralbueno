@@ -44,6 +44,9 @@
   ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+  
+   <img align='right' src="https://media.giphy.com/media/mKN2p4aHbv9WCQgbVW/giphy.gif" width="100">
+
 
 
 
