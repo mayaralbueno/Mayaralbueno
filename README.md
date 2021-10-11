@@ -44,20 +44,26 @@
   ![Snake animation](https://github.com/codethi/codethi/blob/output/github-contribution-grid-snake.svg)
 </div>
 
- 
-{   
+
+
+```java
 public static void main(String args[]){
+
     Dev me = new Dev();
 
-    me.name = "João Pedro C. Gomes";
+    me.name = "Mayara l.d.santos bueno";
     me.years = 18;
-    me.nicknames = "Jon, Jordan, JP";
-    me.applications = "Java, C#, CSS, HTML, PHP,
+    me.nicknames = "may";
+    me.applications = "Java, CSS, HTML,
                         SQL, JavaScript, TypeScript";
     me.tools = "Git, VSCode, Eclipse, MySQL, 
                     Spring Boot, Insomnia, Heroku";
     me.skills = "FullStack, SoftSkills";
 }
+```
+
+
+
 
 
 
