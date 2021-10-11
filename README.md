@@ -1,4 +1,4 @@
-###  óla,sou a Mayara Bueno 👋
+###    Olá, sou a Mayara Bueno 👋
 
 
 
@@ -65,7 +65,7 @@ public static void main(String args[]){
 
 
 
-
+ <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100">
 
 
 
