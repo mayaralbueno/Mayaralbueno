@@ -65,7 +65,7 @@ public static void main(String args[]){
 
 
 
- <img align='right' src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100">
+ <img align='right' src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="100">
 
 
 
