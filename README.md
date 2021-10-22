@@ -4,7 +4,7 @@
 
 - 🔭 Sou desenvolvedora Java Jr Full Stack
 - - 🧠Atualmente cursando faculdade de sistemas de  informação
-- 🌱 Realizei o Bootcamp da Generation Brasil         <img align='right' src="https://media.giphy.com/media/5T0qtElHyolKKC5KL1/giphy.gif" width="350">
+- 🌱 Realizei o Bootcamp da Generation Brasil         <img align='right' src="https://media.giphy.com/media/Swytr5ngUDfDwtXKOz/giphy.gif" width="350">
 - 📫 How to reach me: luziamayara83@gmail.com
 - 😄 Pronome: ela/dela
 
