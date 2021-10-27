@@ -150,9 +150,24 @@ public static void main(String args[]){
        <br>
  <p align="center">
   <br>
+  
 <img src="https://lh3.googleusercontent.com/proxy/S0dKWgW9yUU5t6YneCFS7cE2WX-1aMMYqYhoYbDWRLOaW8yDbrWhF0_2cAPa34gVqbuD5Po0CpKMpQHP6E3RincpbyyUjpIGpwdLESYCZS27IgjeHawfSfryGhxx3WrywokfcXECABC-4ZjbW8fyOqOkRoG5gqOeeZs4" style="width: 20%;">
 </p>     
   📆2016/2021
+    <br>
+    
+   <div align="center">
+    
+ 
+<img src="https://media.giphy.com/media/bMiOdrn2vMjaAgGXfN/giphy-downsized-large.gif" style="width: 30%;">
+  
+   
+   - [Climatika](https://climatika-store.netlify.app/) 🔗
+
+  
+ </div>
+  
+
   
    </div>
    👨‍💻Desenvolvedora Full Stack jr apaixonada por aprender, busco obter experiência em diversas linguagens. 📚
