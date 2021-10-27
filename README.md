@@ -121,7 +121,7 @@ public static void main(String args[]){
  
  
  <details>
-  <summary align="center"  >📃 Resume 👧🏽</summary>
+  <summary align="center"  >📃 Um pouco sobre mim👧🏽</summary>
   <br>
 
  <div align="center">
