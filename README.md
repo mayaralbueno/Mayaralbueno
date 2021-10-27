@@ -171,13 +171,7 @@ public static void main(String args[]){
   
  ♻ E-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos confeccionados em parcerias com pequenos empreendedores.
 
-Temos um compromisso com o planeta e, alinhado às ODS, nosso foco é combater mudança global do clima (ODS 13 conheça mais clicando aqui) alcançando também causas importantes como:
-
-- Fome Zero e Agricultura Sustentável - ODS 2: Temos como objetivo criar parcerias com pequenos empreendedores, com setores da agricultura familiar e da economia circular.
-
-- Igualdade de Gênero - ODS 5: Buscamos fazer parcerias com pequenas empreendedoras para valorizar e colaborar para que elas possam produzir e vender mais os seus produtos.
-
-- Cidades e Comunidades Sustentáveis - ODS 11: Comercializar produtos que gerem a menor quantidade de lixo possível.
+Temos um compromisso com o planeta e, alinhado às ODS, nosso foco é combater mudança global do clima .
 
  </div>
   
