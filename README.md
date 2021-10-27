@@ -9,7 +9,7 @@
 - 📫 How to reach me: luziamayara83@gmail.com
 - 👧🏽 Pronome: ela/dela
 
--
+<br>
 
  <div>
   <a href="https://github.com/mayaralbueno">
