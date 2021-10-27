@@ -131,7 +131,7 @@ public static void main(String args[]){
    </div>
   <br>
   <div align="center">
- 📌Univercidade Nove de Julho
+ 📌Universidade Nove de Julho
   <br>
   📆2021/2024
   <br>
@@ -144,6 +144,7 @@ public static void main(String args[]){
   📆2016/2021
   
    </div>
+   👨‍💻Desenvolvedora Full Stack jr apaixonada por aprender, busco obter experiência em diversas linguagens. 📚
 
 
 
