@@ -1,11 +1,11 @@
-###  <h1  align="center"> Olá, sou a Mayara Bueno 👋 </H1>
+###  <h1  align="center"> Olá, sou a Mayara Bueno👨‍💻 </H1>
 
 
 
 
-- 🔭 Sou desenvolvedora Java Jr Full Stack
-- - 🧠Atualmente cursando faculdade de sistemas de  informação
-- 🌱 Realizei o Bootcamp da Generation Brasil         <img align='right' src="https://media.giphy.com/media/Swytr5ngUDfDwtXKOz/giphy.gif" width="350">
+- 🔭 Sou desenvolvedora Full Stack jr
+- 🧠Atualmente cursando faculdade de sistemas de  informação
+- 👩‍🎓 Realizei o Bootcamp da Generation Brasil         <img align='right' src="https://media.giphy.com/media/Swytr5ngUDfDwtXKOz/giphy.gif" width="350">
 - 📫 How to reach me: luziamayara83@gmail.com
 - 😄 Pronome: ela/dela
 
