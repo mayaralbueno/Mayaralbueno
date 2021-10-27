@@ -122,7 +122,7 @@ public static void main(String args[]){
  
  
  <details>
-  <summary align="center"  >📃 Resume</summary>
+  <summary align="center"  >📃 Resume 👧🏽</summary>
   <br>
 
  <div align="center">
