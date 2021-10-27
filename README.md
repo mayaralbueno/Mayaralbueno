@@ -116,6 +116,43 @@ public static void main(String args[]){
     me.skills = "FullStack, SoftSkills";
 }
 ```
+ 
+ 
+ 
+ 
+ 
+ <details>
+  <summary align="center"  >📃 Resume</summary>
+  <br>
+
+ <div align="center">
+   📚Education
+  
+   </div>
+  <br>
+  <div align="center">
+ 📌Univercidade Nove de Julho
+  <br>
+  📆2021/2024
+  <br>
+  👨‍💻 Generation Brasil
+  <br>
+  📆2021/2021
+  <br>
+  👩‍🎓Wizard by  pearson 
+  <br>
+  📆2016/2021
+  
+   </div>
+
+
+
+
+
+
+
+
+
 
 
 
