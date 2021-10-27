@@ -161,13 +161,29 @@ public static void main(String args[]){
  
 <img src="https://media.giphy.com/media/bMiOdrn2vMjaAgGXfN/giphy-downsized-large.gif" style="width: 30%;">
   
-   
-   - [Climatika](https://climatika-store.netlify.app/) 🔗
+   <br>
+    
+   [Climatika](https://climatika-store.netlify.app/) 🔗
+    
+    
+<h1  align="center">  ♻Projeto Desenvolvido durante 2 meses no bootcamp da Generation Brasil 👩🏽‍💻  </H1>
 
   
+ ♻ E-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos confeccionados em parcerias com pequenos empreendedores.
+
+Temos um compromisso com o planeta e, alinhado às ODS, nosso foco é combater mudança global do clima (ODS 13 conheça mais clicando aqui) alcançando também causas importantes como:
+
+- Fome Zero e Agricultura Sustentável - ODS 2: Temos como objetivo criar parcerias com pequenos empreendedores, com setores da agricultura familiar e da economia circular.
+
+- Igualdade de Gênero - ODS 5: Buscamos fazer parcerias com pequenas empreendedoras para valorizar e colaborar para que elas possam produzir e vender mais os seus produtos.
+
+- Cidades e Comunidades Sustentáveis - ODS 11: Comercializar produtos que gerem a menor quantidade de lixo possível.
+
  </div>
   
+   
 
+<h1  align="center"> Mayara ❤👩🏽‍💻</H1>
   
    </div>
    👨‍💻Desenvolvedora Full Stack jr apaixonada por aprender, busco obter experiência em diversas linguagens. 📚
