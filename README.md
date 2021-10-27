@@ -132,14 +132,27 @@ public static void main(String args[]){
   <br>
   <div align="center">
  📌Universidade Nove de Julho
+     <br>
+ <p align="center">
+<img src="https://pbs.twimg.com/profile_images/1062057652568629249/qElmfVdD_400x400.jpg" style="width: 10%;">
+</p>        
   <br>
   📆2021/2024
   <br>
   👨‍💻 Generation Brasil
+       <br>
+ <p align="center">
+<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFwXinJMoidnQ/company-logo_200_200/0/1560892001772?e=1641427200&v=beta&t=vOW5nl593DGulpsAUk6Fqruk9vf0RT_p9OXfS-347P0" style="width: 10%;">
+</p>     
   <br>
   📆2021/2021
   <br>
   👩‍🎓Wizard by  pearson 
+       <br>
+ <p align="center">
+  <br>
+<img src="https://lh3.googleusercontent.com/proxy/S0dKWgW9yUU5t6YneCFS7cE2WX-1aMMYqYhoYbDWRLOaW8yDbrWhF0_2cAPa34gVqbuD5Po0CpKMpQHP6E3RincpbyyUjpIGpwdLESYCZS27IgjeHawfSfryGhxx3WrywokfcXECABC-4ZjbW8fyOqOkRoG5gqOeeZs4" style="width: 20%;">
+</p>     
   <br>
   📆2016/2021
   
