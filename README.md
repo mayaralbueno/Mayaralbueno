@@ -1,4 +1,5 @@
-###    Olá, sou a Mayara Bueno 👋
+###  <h1  align="center"> Olá, sou a Mayara Bueno 👋 </H1>
+
 
 
 
