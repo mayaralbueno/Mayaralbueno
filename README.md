@@ -177,7 +177,7 @@ Temos um compromisso com o planeta e, alinhado às ODS, nosso foco é combater m
   
    
 
-<h1  align="center"> Mayara ❤👩🏽‍💻</H1>
+<h1  align="center"> Sobre a Mayara ❤👩🏽‍💻</H1>
   
    </div>
    👨‍💻Desenvolvedora Full Stack jr apaixonada por aprender e busco obter experiência em diversas linguagens. 📚
