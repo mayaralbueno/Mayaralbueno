@@ -166,7 +166,7 @@ public static void main(String args[]){
    [Climatika](https://climatika-store.netlify.app/) 🔗
     
     
-<h1  align="center">  ♻Projeto Desenvolvido durante 2 meses no bootcamp da Generation Brasil 👩🏽‍💻  </H1>
+<h1  align="center">  ♻Projeto Desenvolvido durante o bootcamp da Generation Brasil 👩🏽‍💻  </H1>
 
   
  ♻ E-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos confeccionados em parcerias com pequenos empreendedores.
