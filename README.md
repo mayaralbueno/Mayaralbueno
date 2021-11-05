@@ -159,7 +159,7 @@ public static void main(String args[]){
    <div align="center">
     
  
-<img src="https://media.giphy.com/media/bMiOdrn2vMjaAgGXfN/giphy-downsized-large.gif" style="width: 30%;">
+<img src="https://cdn.discordapp.com/attachments/897218563671212042/897218713017786448/ClimatikaStore1.png" style="width: 30%;">
   
    <br>
     
