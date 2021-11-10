@@ -137,72 +137,21 @@ public static void main(String args[]){
       <h5><b>  📆2021/2024
  </b><h5>
     <td align="center">
- <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFwXinJMoidnQ/company-logo_200_200/0/1560892001772?e=1641427200&v=beta&t=vOW5nl593DGulpsAUk6Fqruk9vf0RT_p9OXfS-347P0" style="width: 100%;">
-    <h4><b>Generatio  Brasil 👨‍💻</b> </h4>
+ <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFwXinJMoidnQ/company-logo_200_200/0/1560892001772?e=1641427200&v=beta&t=vOW5nl593DGulpsAUk6Fqruk9vf0RT_p9OXfS-347P0" style="width: 50%;">
+    <h4><b>Generatio  Brasil</b> </h4>
       <h5><b>   📆2021/2021
  </b><h5>
     <td align="center">
-    <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJpnWsQG_8VspRXeB9Gdw13RenWLwU2GZYpQ&usqp=CAU" style="width: 100px; border-radius: 50%">
-    <h4><b>Gaia   👩‍🎓Wizard by  pearson </b></h4>
+    <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJpnWsQG_8VspRXeB9Gdw13RenWLwU2GZYpQ&usqp=CAU" style="width: 100px; border-radius: 100%">
+    <h4><b>Gaia Wizard by  pearson </b></h4>
       <h5><b>   📆2016/2021
 </b><h5>
-   <td align="center">
-    <img  src="https://media.giphy.com/media/0lazmV9C3BysehSabb/giphy.gif" style="width: 100px; border-radius: 50%">
-    <h4><b>Generation</b> </h4>
-      <h5><b>  Nossa missão é apoiar jovens a construírem carreiras sustentáveis </b><h5>
-    <td align="center">
-    <img  src="https://media.giphy.com/media/xE0gPXOKyBhhPwibS1/giphy.gif" style="width: 100px; border-radius: 50%">
-    <h4><b>Gaia</b>  </h4>
-      <h5><b>  acredita que um dos caminhos para o desenvolvimento sustentável </b><h5>
-    <td align="center">
-    <img  src="https://media.giphy.com/media/5mckjYoNyvOb6mkhrB/giphy.gif" style="width: 100px; border-radius: 50%">
-    <h4><b>Eco.Book</b></h4>
-         <h5><b>   A eco.Book acredita que um dos caminhos para o desenvolvimento sustentável é a educação.</b><h5>
-       <td align="center">
-         <img  src="https://media.giphy.com/media/QvJWqx9RRN4zUq9e75/giphy.gif" style="width: 100px; border-radius: 50%">
-    <h4><b>Baependi</b>  </h4>
-         <h5><b>  acredita que um dos caminhos para o desenvolvimento sustentável.</b><h5>
-         
          
   </tr>
 </table>
   
-
-
- <div align="center">
   
-   </div>
-  <br>
   <div align="center">
- 📌Universidade Nove de Julho
-     <br>
- <p align="center">
-<img src="https://pbs.twimg.com/profile_images/1062057652568629249/qElmfVdD_400x400.jpg" style="width: 10%;">
-</p>        
-  <br>
-  📆2021/2024
-  <br>
-  👨‍💻 Generation Brasil
-       <br>
- <p align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFwXinJMoidnQ/company-logo_200_200/0/1560892001772?e=1641427200&v=beta&t=vOW5nl593DGulpsAUk6Fqruk9vf0RT_p9OXfS-347P0" style="width: 10%;">
-</p>     
-  <br>
-  📆2021/2021
-  <br>
-  👩‍🎓Wizard by  pearson 
-       <br>
- <p align="center">
-  
-  <br>
-  
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJpnWsQG_8VspRXeB9Gdw13RenWLwU2GZYpQ&usqp=CAU" style="width: 20%;">
-</p>     
-  📆2016/2021
-    <br> 
-   <div align="center">
-    
- 
 <img src="https://cdn.discordapp.com/attachments/897218563671212042/897218713017786448/ClimatikaStore1.png" style="width: 30%;">
   
    <br>
@@ -210,23 +159,23 @@ public static void main(String args[]){
    [Climatika](https://climatika-store.netlify.app/) 🔗
     
     
-<h1  align="center">  ♻Projeto Desenvolvido durante o bootcamp da Generation Brasil 👩🏽‍💻  </H1>
+<h3  align="center">  ♻Projeto Desenvolvido durante o bootcamp da Generation Brasil 👩🏽‍💻  </H3>
 
   
  ♻ E-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos confeccionados em parcerias com pequenos empreendedores.
 
 Temos um compromisso com o planeta e, alinhado às ODS, nosso foco é combater mudança global do clima .
 
- </div>
   
    
 
-<h1  align="center"> Sobre a Mayara ❤👩🏽‍💻</H1>
+<h1  align="center"> Desenvolvedora web</H1>
   
-   </div>
+   
    👨‍💻Desenvolvedora Full Stack jr apaixonada por aprender e busco obter experiência em diversas linguagens. 📚
 
 
+</div>
 
 
 
@@ -241,5 +190,14 @@ Temos um compromisso com o planeta e, alinhado às ODS, nosso foco é combater m
  
  
  
+ 
+
+
+
+
+
+
+
+
  
 
