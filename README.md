@@ -123,9 +123,53 @@ public static void main(String args[]){
  <details>
   <summary align="center"  >📃 Um pouco sobre mim👧🏽</summary>
   <br>
+  
+  
+  
+  <h2 align="center"> 📚Education
+</h2>
+  
+  <table align="center">
+  <tr>
+    <td align="center">
+    <img  src="https://pbs.twimg.com/profile_images/1062057652568629249/qElmfVdD_400x400.jpg" style="width: 100px; border-radius: 10%">
+    <h4><b> Universidade Nove de Julho </b></h4>
+      <h5><b>  📆2021/2024
+ </b><h5>
+    <td align="center">
+ <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFwXinJMoidnQ/company-logo_200_200/0/1560892001772?e=1641427200&v=beta&t=vOW5nl593DGulpsAUk6Fqruk9vf0RT_p9OXfS-347P0" style="width: 100%;">
+    <h4><b>Generatio  Brasil 👨‍💻</b> </h4>
+      <h5><b>   📆2021/2021
+ </b><h5>
+    <td align="center">
+    <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJpnWsQG_8VspRXeB9Gdw13RenWLwU2GZYpQ&usqp=CAU" style="width: 100px; border-radius: 50%">
+    <h4><b>Gaia   👩‍🎓Wizard by  pearson </b></h4>
+      <h5><b>   📆2016/2021
+</b><h5>
+   <td align="center">
+    <img  src="https://media.giphy.com/media/0lazmV9C3BysehSabb/giphy.gif" style="width: 100px; border-radius: 50%">
+    <h4><b>Generation</b> </h4>
+      <h5><b>  Nossa missão é apoiar jovens a construírem carreiras sustentáveis </b><h5>
+    <td align="center">
+    <img  src="https://media.giphy.com/media/xE0gPXOKyBhhPwibS1/giphy.gif" style="width: 100px; border-radius: 50%">
+    <h4><b>Gaia</b>  </h4>
+      <h5><b>  acredita que um dos caminhos para o desenvolvimento sustentável </b><h5>
+    <td align="center">
+    <img  src="https://media.giphy.com/media/5mckjYoNyvOb6mkhrB/giphy.gif" style="width: 100px; border-radius: 50%">
+    <h4><b>Eco.Book</b></h4>
+         <h5><b>   A eco.Book acredita que um dos caminhos para o desenvolvimento sustentável é a educação.</b><h5>
+       <td align="center">
+         <img  src="https://media.giphy.com/media/QvJWqx9RRN4zUq9e75/giphy.gif" style="width: 100px; border-radius: 50%">
+    <h4><b>Baependi</b>  </h4>
+         <h5><b>  acredita que um dos caminhos para o desenvolvimento sustentável.</b><h5>
+         
+         
+  </tr>
+</table>
+  
+
 
  <div align="center">
-   📚Education
   
    </div>
   <br>
