@@ -3,9 +3,6 @@
 ###  <h1  align="center"> 𝓗𝓲 𝓶𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓶𝓪𝔂𝓪𝖗𝓪 ⭐ </H1>
  
 
-
-
-
 - 👩🏽‍💻   Sou desenvolvedora web Full Stack jr
 - 🧠Atualmente estou cursando faculdade de sistemas de  informação
 - 👩‍🎓 Realizei o Bootcamp da Generation Brasil         <img align='right' src="https://media.giphy.com/media/Swytr5ngUDfDwtXKOz/giphy.gif" width="350">
@@ -28,7 +25,9 @@
 <a href="https://instagram.com/mayara.s.bueno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mayara-bueno-b9bb55212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <br>
-  
+    
+  <img height="165cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khailas12&layout=compact&theme=midnight-purple&hide_border=true" alt="Streak" width="400"/> <img height="165cm" src="https://github-readme-stats.vercel.app/api?username=Khailas12&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="ovi" width="400cm"/></p>
+
     
 <h2  align="center"> 👩🏽‍💻Tecnologias  :<h2>
 <br>
