@@ -5,7 +5,7 @@
 
 - 👩🏽‍💻   Sou desenvolvedora web Full Stack jr
 - 🧠Atualmente estou cursando faculdade de sistemas de  informação
-- 👩‍🎓 Realizei o Bootcamp da Generation Brasil         <img align='right' src="https://media.giphy.com/media/Swytr5ngUDfDwtXKOz/giphy.gif" width="350">
+- 👩‍🎓 Realizei o Bootcamp da Generation Brasil         <img align='right' src="https://media.giphy.com/media/2KAGlmkPywhZS/giphy.gif" width="250">
 - 📫 How to reach me: luziamayara83@gmail.com
 
 <br>
