@@ -161,13 +161,13 @@ public static void main(String args[]){
     
 <h4 align="center">  ♻Projeto Desenvolvido durante o bootcamp da Generation Brasil 👩🏽‍💻  </H4>
 
-  <h5
+
  ♻ E-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos confeccionados em parcerias com pequenos empreendedores.
 
 Temos um compromisso com o planeta e, alinhado às ODS, nosso foco é combater mudança global do clima .
 
   
-    </H5>
+  
 
 <h1  align="center"> Desenvolvedora web</H1>
   
