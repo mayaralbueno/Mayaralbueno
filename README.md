@@ -108,21 +108,7 @@
 
 
 
-```java
-public static void main(String args[]){
 
-    Dev me = new Dev();
-
-    me.name = "Mayara l.d.santos bueno";
-    me.years = 19;
-    me.nicknames = "may";
-    me.applications = "Java, CSS, HTML,
-                        SQL, JavaScript, TypeScript";
-    me.tools = "Git, VSCode, Eclipse, MySQL, 
-                    Spring Boot, Insomnia, Heroku";
-    me.skills = "FullStack, SoftSkills";
-}
-```
  
  
  
