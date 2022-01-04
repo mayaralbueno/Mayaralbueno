@@ -116,7 +116,7 @@
  
  
  <details>
-  <summary align="center"  >📃 Um pouco sobre mim</summary>
+  <summary align="center"  >📃 About me /summary>
   <br>
   
   
