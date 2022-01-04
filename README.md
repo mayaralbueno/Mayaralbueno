@@ -116,7 +116,9 @@
  
  
  <details>
-  <summary align="center"  >📃 About me /summary>
+ 
+   
+   
   <br>
   
   
@@ -171,7 +173,8 @@ Temos um compromisso com o planeta e, alinhado às ODS, nosso foco é combater m
 
 
 </div>
-
+ 
+ </details>
 
 
 
