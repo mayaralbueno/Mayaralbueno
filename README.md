@@ -110,32 +110,7 @@
    
    
   <br>
-  
-  
-  
-  <h2 align="center"> 📚Education
-</h2>
-  
-  <table align="center">
-  <tr>
-    <td align="center">
-    <img  src="https://pbs.twimg.com/profile_images/1062057652568629249/qElmfVdD_400x400.jpg" style="width: 100px; border-radius: 10%">
-    <h4><b> Universidade Nove de Julho </b></h4>
-      <h5><b>  📆2021/2024
- </b><h5>
-    <td align="center">
- <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFwXinJMoidnQ/company-logo_200_200/0/1560892001772?e=1641427200&v=beta&t=vOW5nl593DGulpsAUk6Fqruk9vf0RT_p9OXfS-347P0" style="width: 50%;">
-    <h4><b>Generatio  Brasil</b> </h4>
-      <h5><b>   📆2021/2021
- </b><h5>
-    <td align="center">
-    <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJpnWsQG_8VspRXeB9Gdw13RenWLwU2GZYpQ&usqp=CAU" style="width: 100px; border-radius: 100%">
-    <h4><b>Gaia Wizard by  pearson </b></h4>
-      <h5><b>   📆2016/2021
-</b><h5>
-         
-  </tr>
-</table>
+
   
   
   <div align="center">
