@@ -11,6 +11,7 @@
 - 🧠Atualmente estou cursando faculdade de sistemas de  informação
 - 👩‍🎓 Realizei o Bootcamp da Generation Brasil         
 - 📫 How to reach me: luziamayara83@gmail.com 
+-  📰 [Portfólio](https://optimistic-wiles-c863e5.netlify.app)
 
 
 
