@@ -115,13 +115,15 @@
   <br>
 
   
+ <p align="center">
+<img src="https://cdn.discordapp.com/attachments/897218563671212042/897218713017786448/ClimatikaStore1.png" style="width: 25%;">
   
-  <div align="center">
-<img src="https://cdn.discordapp.com/attachments/897218563671212042/897218713017786448/ClimatikaStore1.png" style="width: 30%;">
-  
-   <br>
+</p>  
+   
     
-   [Climatika](https://climatika-store.netlify.app/) 🔗
+   -  📰 [Climatika](https://climatika-store.netlify.app/)
+
+
     
     
 <h4 align="center">  ♻Projeto Desenvolvido durante o bootcamp da Generation Brasil   </H4>
