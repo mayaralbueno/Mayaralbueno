@@ -111,43 +111,7 @@
  
  
  
- <details>
- 
-   
-   
-  <br>
 
-  
- <p align="center">
-<img src="https://cdn.discordapp.com/attachments/897218563671212042/897218713017786448/ClimatikaStore1.png" style="width: 25%;">
-  
-</p>  
-   
-    
-   -  📰 [Climatika](https://climatika-store.netlify.app/)
-
-
-    
-    
-<h4 align="center">  ♻Projeto Desenvolvido durante o bootcamp da Generation Brasil   </H4>
-
-<h4 
- ♻ E-commerce empenhado em reduzir impactos ambientais e sociais de consumo com produtos ecológicos confeccionados em parcerias com pequenos empreendedores.
-
-Temos um compromisso com o planeta e, alinhado às ODS, nosso foco é combater mudança global do clima .
- </H4>
-  
-  
-
-<h1  align="center"> Desenvolvedora web</H1>
-  
-   
-   👨‍💻Desenvolvedora Full Stack jr apaixonada por aprender e busco obter experiência em diversas linguagens. 📚
-
-
-</div>
- 
- </details>
 
 
 
