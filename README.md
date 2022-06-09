@@ -16,7 +16,7 @@
 - 📫 How to reach me: luziamayara83@gmail.com 
 -  📰 [Portfólio](https://optimistic-wiles-c863e5.netlify.app)
 -  📰 [Climatika](https://climatika-store.netlify.app/)
-- 📑[Pokedex](https://vibrant-benz-f6bfb8.netlify.app/#)
+
 
 
 
