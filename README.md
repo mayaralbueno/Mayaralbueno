@@ -51,9 +51,9 @@
   <img align="center" alt="may-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="may-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
    <img align="center" alt="may-Csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
-   <img align="center" alt="may-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >
+   <img align="center" alt="may-React" height="50" width="50" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png">
+     <img align="center" alt="may-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" >
        <img align="center" alt="may-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-      <img align="center" alt="may-React" height="50" width="50" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png">
 
 
 
