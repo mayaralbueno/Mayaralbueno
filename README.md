@@ -10,7 +10,7 @@
 </p>
  
 
-- 👩🏽‍💻  Sou desenvolvedora web Full Stack jr
+
 - 🧠Atualmente estou cursando faculdade de sistemas de  informação
 - 👩‍🎓 Realizei o Bootcamp da Generation Brasil         
 -  📰 [Portfólio](https://optimistic-wiles-c863e5.netlify.app)
@@ -21,13 +21,7 @@
 
 
 
-<br>
 
- <div>
-  <a href="https://github.com/mayaralbueno">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=mayaralbueno&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayaralbueno&layout=compact&langs_count=7&theme=radical"/>
-</div>  
     
  
  
