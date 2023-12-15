@@ -13,7 +13,7 @@
 
 - 🧠Atualmente estou cursando faculdade de sistemas de  informação
 - 👩‍🎓 Realizei o Bootcamp da Generation Brasil         
--  📰 [Portfólio](https://optimistic-wiles-c863e5.netlify.app)
+-  📰 [Portfólio](https://mayaraportifolio.netlify.app/)
 -  📰 [Climatika](https://climatika-store.netlify.app/)
 
 
